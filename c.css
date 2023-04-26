@@ -1,0 +1,10 @@
+body{
+    background-size:cover ;
+}
+canvas{
+    box-shadow:1px 1px 38px  yellow ;
+    border: solid 2px;
+}
+.h1{
+    color:lightcoral
+}
